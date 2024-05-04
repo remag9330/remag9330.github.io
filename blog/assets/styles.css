@@ -1,0 +1,44 @@
+html {
+  --background-color: #f2f2f2;
+  --font-color: #444444;
+  --accent-color: rgb(0, 128, 256);
+  --faded-accent-color: rgba(0, 128, 256, 0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    --background-color: #444444;
+    --font-color: #f2f2f2;
+    --accent-color: #00aaff;
+    --faded-accent-color: rgba(0, 128, 256, 0.1);
+  }
+}
+
+body {
+  max-width: 600px;
+  margin: auto;
+
+  background-color: var(--background-color);
+  color: var(--font-color);
+
+  font-size: 1.25em;
+  line-height: 1.6;
+}
+
+a {
+  color: var(--accent-color);
+}
+
+blockquote {
+  margin-left: 2em;
+  padding-left: 1em;
+
+  border-left: 2px solid var(--accent-color);
+  border-radius: 4px;
+
+  background-color: var(--faded-accent-color);
+}
+
+#publish_date {
+  font-size: 1rem;
+}
