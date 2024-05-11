@@ -1,0 +1,17 @@
+I got asked a pretty innocuous question the other day about working on something I was doing in my spare time.
+
+Why?
+
+Why we want to do different things will obviously differ from person to person, but I can still write about my own perspectives (it _is_ my blog after all).
+
+Coming from a history of people who don't _quite_ understand me or what I do, and often things I made and was somewhat proud of would get ridiculed by those I was close to, a question as simple as "why do you want to do that?" got me really defensive. And I know that this person wasn't attacking me or anything, but it can be hard to break old habits.
+
+We talked for a while about this, and I think that I find it hard to come to terms with wanting to do something just because I enjoy it or it's fun to do. I feel like I always need to be productive or doing something for the greater good <sup>(the greater good)</sup>, otherwise what I'm doing is just a waste of time and everyone else can see that and judge me for it. Hell, a part of me sees this whole blog thing just as a reason to keep learning Rust. Without that, I might not even have gotten this far.
+
+This even goes so far such that I just don't even tell those close to me what I've been up to, and when I get asked I just brush it under the rug and redirect ("ohh, y'know, work - what about you?").
+
+Now obviously writing this all out sounds ridiculous, and it is, but it can be hard to get out of a mind set that I grew up with: stay silent about anything and everything out of fear of being laughed at, and just be known as the "shy child" as that's safer than the alternative.
+
+I guess the point of this post is a reminder to myself that it's okay to do things that don't provide any tangible benefit/effect on anyone's life, and not everyone is out to judge me. If I think it's fun to do then that should be more than enough reason for me to keep at it.
+
+Let's try and tame that anxiety just a little bit more, shall we?
