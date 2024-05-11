@@ -3,6 +3,8 @@ html {
   --font-color: #444444;
   --accent-color: rgb(0, 128, 256);
   --faded-accent-color: rgba(0, 128, 256, 0.1);
+
+  margin: 0 16px;
 }
 
 @media (prefers-color-scheme: dark) {
