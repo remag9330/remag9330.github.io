@@ -27,3 +27,7 @@ Or at most, run a single command to update all blog posts based on the templates
 3. Blazingly fast
 
 😏 😏 😏
+
+But seriously, I think rust is fun enough to use, and experience spread out over many things can only be good for my skillset anyway.
+
+Anyway, yeah hopefully I can keep this up maybe for a longer time than my other projects, but I guess we'll see.
